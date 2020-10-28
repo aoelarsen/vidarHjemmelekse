@@ -70,3 +70,9 @@ Liste med plugins til VS Code som kan være kjekke å ha:
 
 1. Last ned [VS Code](https://code.visualstudio.com/)
 2. Sjekk ut alternativer og se om det er noe som frister mer
+
+## Ny hjemmelekse - Git
+
+1. klon dette repo'et
+2. legg til en :heavy_check_mark: på alle ToDo'ene du har gjort
+3. opprett en "Pull request" og last opp endringene
