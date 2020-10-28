@@ -58,8 +58,15 @@ Det finnes garantert flere, men dette er noen av de mest populære. Jeg har god 
 
 Ett verktøy er allerede nevn - Git. Et annet essensielt verktøy er en god "text-editor". Selv bruker jeg [VS Code](https://code.visualstudio.com/) som er gratis for Windows, Linux og Mac. Det finnes mange andre alternativer, også gratisvarianter, som er gode. Her handler det først og fremst om smakssak.
 
+Liste med plugins til VS Code som kan være kjekke å ha:
+
+- [vscode-graphql](https://marketplace.visualstudio.com/items?itemName=luyizhi.vscode-graphql)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- Her er det mange andre plugins/extensions som kan komme godt med, men som ikke er nødvendig å installere før du faktisk skal bruke dem.
+
 **ToDo:**
 
 1. Last ned [VS Code](https://code.visualstudio.com/)
 2. Sjekk ut alternativer og se om det er noe som frister mer
-3. (her kommer det en liste over plugins jeg bruker til VS Code)
